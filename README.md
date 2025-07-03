@@ -11,8 +11,8 @@
 ## 🧰 Teknologi & Bahasa Pemrograman
 
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: PHP (CodeIgniter), Node.js
-- **Database**: MySQL
+- **Backend**: PHP (CodeIgniter), Node.js, JAVA, Python
+- **Database**: MySQL, PostgreSQL
 - **Framework**: AngularJS, Express.js
 - **Lainnya**: GraphQL, Sequelize
 
